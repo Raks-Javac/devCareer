@@ -1,0 +1,49 @@
+name: dev_career
+description: community for developers.
+
+#
+publish_to: 'none' # Remove this line if you wish to publish to pub.dev
+
+version: 1.0.0+1
+
+environment:
+  sdk: ">=2.7.0 <3.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+
+  cupertino_icons: ^1.0.2
+  flutter_slider_drawer: ^1.2.1
+  google_fonts: ^2.0.0
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+
+flutter:
+
+
+  uses-material-design: true
+
+
+  assets:
+    - assets/image/
+  #   - images/a_dot_ham.jpeg
+
+
+  fonts:
+    - family: PB
+      fonts:
+        - asset: assets/fonts/Poppins-Bold.ttf
+    - family: PL
+      fonts:
+        - asset: assets/fonts/Poppins-Light.ttf
+    - family: PR
+      fonts:
+        - asset: assets/fonts/Poppins-Regular.ttf
+    - family: PT
+      fonts:
+        - asset: assets/fonts/Poppins-Thin.ttf
