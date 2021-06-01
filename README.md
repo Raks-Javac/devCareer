@@ -1,15 +1,8 @@
 # dev_career
 
+![Slide 16_9 - 1](https://user-images.githubusercontent.com/56641192/120399860-bbb74d00-c334-11eb-9849-4dbd94317627.png)
 
 
-
-greenzcolor = 72E79A
-blueColor = 6155AE
-
-
-
-start = 72E79A
-end = 687FAA
 
 
 
